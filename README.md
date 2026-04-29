@@ -36,6 +36,14 @@ The main conclusion of the thesis is that no dispatch heuristic is universally o
 └── README.md
 ```
 
+### Simulation demo
+
+
+A short example video of one simulation run is available in:
+
+```text
+media/simulation_demo.mp4
+
 ### `CASEVAC_MVERZEIDE_VISUALIZATION.py`
 
 Runs a CASEVAC simulation scenario and visualizes the resulting environment, casualties, platforms, and evacuation dynamics. This file is intended for inspecting model behavior, debugging, and producing illustrative simulation output.
