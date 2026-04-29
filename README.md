@@ -249,5 +249,3 @@ A short example video of one simulation run is available in:
 
 ```text
 media/casevac_sim_avdiivka.mp4
-
-This repository is intended for academic research and simulation-based analysis. The model is a stylized representation of CASEVAC dynamics and should not be used as an operational decision-support system without validation, calibration, and domain-expert review.
