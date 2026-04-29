@@ -32,7 +32,7 @@ The main conclusion of the thesis is that no dispatch heuristic is universally o
 ├── CASEVAC_MVERZEIDE_VISUALIZATION.py   # Single-run simulation and visualization script
 ├── CASEVAC_MVERZEIDE_MONTECARLO.py      # Monte Carlo experiment script
 ├── CASEVAC_MVERZEIDE_MAP_DOWNLOADER.py  # OpenStreetMap road-network downloader
-├── gulpen_polygon_simplified.graphml    # Generated road-network input file
+├── gulpen_polygon_simplified.graphml    # Road-network input file, available on request or generated locally
 └── README.md
 ```
 
@@ -137,7 +137,13 @@ The simulation scripts expect the road-network file below to be available in the
 gulpen_polygon_simplified.graphml
 ```
 
-This file can be generated with the included map downloader:
+The road-network data file is not included in this repository because of its large file size. The data can be made available upon reasonable request by contacting:
+
+```text
+m.verzeide@tilburguniversity.edu
+```
+
+Alternatively, the road-network file can be regenerated with the included map downloader:
 
 ```bash
 python CASEVAC_MVERZEIDE_MAP_DOWNLOADER.py
@@ -233,5 +239,8 @@ The thesis results support a conditional view of dispatch effectiveness:
 
 
 ## Disclaimer
+
+This repository is intended for academic research and simulation-based analysis. The model is a stylized representation of CASEVAC dynamics and should not be used as an operational decision-support system without validation, calibration, and domain-expert review.
+
 
 This repository is intended for academic research and simulation-based analysis. The model is a stylized representation of CASEVAC dynamics and should not be used as an operational decision-support system without validation, calibration, and domain-expert review.
