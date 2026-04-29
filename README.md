@@ -36,13 +36,6 @@ The main conclusion of the thesis is that no dispatch heuristic is universally o
 └── README.md
 ```
 
-### Simulation demo
-
-
-A short example video of one simulation run is available in:
-
-```text
-media/simulation_demo.mp4
 
 ### `CASEVAC_MVERZEIDE_VISUALIZATION.py`
 
@@ -250,5 +243,11 @@ The thesis results support a conditional view of dispatch effectiveness:
 
 This repository is intended for academic research and simulation-based analysis. The model is a stylized representation of CASEVAC dynamics and should not be used as an operational decision-support system without validation, calibration, and domain-expert review.
 
+## Simulation demo
+
+A short example video of one simulation run is available in:
+
+```text
+media/casevac_sim_avdiivka.mp4
 
 This repository is intended for academic research and simulation-based analysis. The model is a stylized representation of CASEVAC dynamics and should not be used as an operational decision-support system without validation, calibration, and domain-expert review.
