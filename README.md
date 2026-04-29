@@ -231,12 +231,6 @@ The thesis results support a conditional view of dispatch effectiveness:
 - performance differences between heuristics tend to shrink as capacity expands;
 - system-level constraints such as accessibility loss, fleet scarcity, and treatment congestion can dominate dispatch-policy effects.
 
-## Suggested citation
-
-```text
-Verzeide, M. (2026). Military Casualty Evacuation in Dynamic Contested Environments:
-A Simulation Study of Dispatch Heuristics. MSc Thesis, Tilburg University.
-```
 
 ## Disclaimer
 
